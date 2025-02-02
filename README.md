@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using catch-all routes in React Router Dom v6.  The problem arises when trying to match any unmatched routes using `path="/*"`. This example shows the problem and its solution using nested routes.
